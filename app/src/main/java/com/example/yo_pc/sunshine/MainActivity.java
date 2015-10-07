@@ -21,9 +21,6 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-    public void github(){
-
-    }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
